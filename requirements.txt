@@ -1,0 +1,4 @@
+pyramid-jwtauth==0.1.0
+pyramid==1.6a1
+pyramid-sockjs==0.3.9
+pyparsing==2.0.3

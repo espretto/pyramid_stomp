@@ -79,3 +79,7 @@ bower_components
 # database related
 # ----------------
 *.sqlite
+
+# crypto related
+# --------------
+ssh
